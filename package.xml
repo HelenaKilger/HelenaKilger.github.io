@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package label="Math Choices" save_state="true">
+  <Problems>
+    <Problem name="Multi-test" label="Multi Test" tutor_flag="tutor" model_file="Multi2.brd" student_interface="Multi1.html">
+      <Skills>
+      </Skills>
+    </Problem>
+  </Problems>
+  <ProblemSets>
+    <ProblemSet name="MultiTestSet" label="Multi Test Set" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+      <Problems>
+        <Problem name="Multi-test" position="1" role="0"/>
+      </Problems>
+      <Skills>
+      </Skills>
+      <Assets>
+      </Assets>
+      <Categories>
+        <Collection name="general" label="Released Problem Sets" description="Released Problem Sets"/>
+        <Standard name="CommonCore" label="Common Core Standards" description="Common Core Standards" standard_level="standard"/>
+        <Standard name="NCTM" label="NCTM Curriculum Focal Points" description="NCTM Curriculum Focal Points" standard_level="standard"/>
+        <Standard name="PA" label="PA Assessment Anchors" description="PA Assessment Anchors" standard_level="standard"/>
+        <Standard name="Student" label="Problem Set Categories" description="Student Standards" standard_level="standard"/>
+      </Categories>
+    </ProblemSet>
+  </ProblemSets>
+  <Assets>
+    <Asset name="Multi1.brd" path="FinalBRDs"/>
+    <Asset name="Multi2.brd" path="FinalBRDs"/>
+    <Asset name="test.brd" path="FinalBRDs"/>
+    <Asset name="Multi1.html" path="HTML"/>
+    <Asset name="Multi1.json" path="HTML"/>
+    <Asset name="Multi1(1).html" path="HTML"/>
+    <Asset name="Multi1(1).json" path="HTML"/>
+    <Asset name="Multi1(2).html" path="HTML"/>
+    <Asset name="Multi1(2).json" path="HTML"/>
+    <Asset name="Multi1(3).html" path="HTML"/>
+    <Asset name="Multi1(3).json" path="HTML"/>
+    <Asset name="Multi1(4).html" path="HTML"/>
+    <Asset name="Multi1(4).json" path="HTML"/>
+    <Asset name="Multi2.html" path="HTML"/>
+    <Asset name="Multi2.json" path="HTML"/>
+    <Asset name="Multi2(1).html" path="HTML"/>
+    <Asset name="Multi2(1).json" path="HTML"/>
+    <Asset name="abstract-C.png" path="HTML/Assets"/>
+    <Asset name="abstract-D.png" path="HTML/Assets"/>
+    <Asset name="abstract-H.png" path="HTML/Assets"/>
+    <Asset name="abstract.png" path="HTML/Assets"/>
+    <Asset name="background.png" path="HTML/Assets"/>
+    <Asset name="Blorbo3.png" path="HTML/Assets"/>
+    <Asset name="concrete-C.png" path="HTML/Assets"/>
+    <Asset name="concrete-D.png" path="HTML/Assets"/>
+    <Asset name="concrete-H.png" path="HTML/Assets"/>
+    <Asset name="concrete.png" path="HTML/Assets"/>
+    <Asset name="correct-C.png" path="HTML/Assets"/>
+    <Asset name="correct-D.png" path="HTML/Assets"/>
+    <Asset name="correct-H.png" path="HTML/Assets"/>
+    <Asset name="correct.png" path="HTML/Assets"/>
+    <Asset name="dots-C.png" path="HTML/Assets"/>
+    <Asset name="dots-D.png" path="HTML/Assets"/>
+    <Asset name="dots-H.png" path="HTML/Assets"/>
+    <Asset name="dots.png" path="HTML/Assets"/>
+    <Asset name="incorrect-C.png" path="HTML/Assets"/>
+    <Asset name="incorrect-D.png" path="HTML/Assets"/>
+    <Asset name="incorrect-H.png" path="HTML/Assets"/>
+    <Asset name="incorrect.png" path="HTML/Assets"/>
+    <Asset name="lang.ge.js" path="HTML/Assets"/>
+    <Asset name="line-C.png" path="HTML/Assets"/>
+    <Asset name="line-D.png" path="HTML/Assets"/>
+    <Asset name="line-H.png" path="HTML/Assets"/>
+    <Asset name="line.png" path="HTML/Assets"/>
+    <Asset name="Multi1-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi1-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi1(1)-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi1(1)-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi1(2)-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi1(2)-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi1(3)-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi1(3)-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi1(4)-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi1(4)-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi2-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi2-styles.json" path="HTML/Assets"/>
+    <Asset name="Multi2(1)-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi2(1)-styles.json" path="HTML/Assets"/>
+    <Asset name="twoXFour-A-R1.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-A-R2.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-A-W.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-D-R1.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-D-R2.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-D-W.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-L-R1.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-L-R2.png" path="HTML/Assets"/>
+    <Asset name="twoXFour-L-W.png" path="HTML/Assets"/>
+  </Assets>
+</Package>
