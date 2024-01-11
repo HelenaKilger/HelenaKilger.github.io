@@ -13,7 +13,16 @@
     <script type="text/javascript" src="https://cdn.ctat.cs.cmu.edu/releases/lab/ctat.min.js"></script>
     <script type="text/javascript" src="https://cdn.ctat.cs.cmu.edu/releases/lab/ctatloader.js"></script>
   <script type="text/javascript" src="./Assets/lang.ge.js"></script>
+<script>
+    var myVars = {
+      question_file: "../FinalBRDs/Multi2.brd",
+      tutoring_service_communication: "javascript"
+    };
 
+    function ctatOnload() {
+      initTutor(myVars);
+    }
+  </script>
   </head>
   <body>
     <div id="i2ut">
