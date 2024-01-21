@@ -1757,6 +1757,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>21</sourceID>
         <destID>22</destID>
         <traversalCount>0</traversalCount>
@@ -1981,6 +1985,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>26</sourceID>
@@ -2209,6 +2217,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>31</sourceID>
         <destID>32</destID>
         <traversalCount>0</traversalCount>
@@ -2389,6 +2401,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>35</sourceID>
@@ -2617,6 +2633,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>40</sourceID>
         <destID>41</destID>
         <traversalCount>0</traversalCount>
@@ -2841,6 +2861,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>45</sourceID>
@@ -3069,6 +3093,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>50</sourceID>
         <destID>51</destID>
         <traversalCount>0</traversalCount>
@@ -3249,6 +3277,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>54</sourceID>
@@ -3473,6 +3505,10 @@
             </matchers>
         </actionLabel>
         <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
@@ -3703,6 +3739,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>64</sourceID>
         <destID>65</destID>
         <traversalCount>0</traversalCount>
@@ -3929,6 +3969,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>69</sourceID>
         <destID>70</destID>
         <traversalCount>0</traversalCount>
@@ -4109,6 +4153,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>73</sourceID>
@@ -4337,6 +4385,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>78</sourceID>
         <destID>79</destID>
         <traversalCount>0</traversalCount>
@@ -4561,6 +4613,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>83</sourceID>
@@ -4789,6 +4845,10 @@
             <text><![CDATA[concrete multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
         <sourceID>88</sourceID>
         <destID>89</destID>
         <traversalCount>0</traversalCount>
@@ -4969,6 +5029,10 @@
         <preCheckedStatus>No-Applicable</preCheckedStatus>
         <rule>
             <text><![CDATA[concrete multiplication]]></text>
+            <indicator>-1</indicator>
+        </rule>
+        <rule>
+            <text><![CDATA[dots multiplication]]></text>
             <indicator>-1</indicator>
         </rule>
         <sourceID>92</sourceID>
@@ -5665,6 +5729,18 @@
         <productionSet><![CDATA[multiplication]]></productionSet>
         <label><![CDATA[concrete]]></label>
         <description><![CDATA[concrete multiplication]]></description>
+    </productionRule>
+    <productionRule>
+        <ruleName><![CDATA[--]]></ruleName>
+        <productionSet><![CDATA[-- No Skill Selected -- --]]></productionSet>
+        <label><![CDATA[--]]></label>
+        <description><![CDATA[-- -- No Skill Selected -- --]]></description>
+    </productionRule>
+    <productionRule opportunities="4">
+        <ruleName><![CDATA[dots]]></ruleName>
+        <productionSet><![CDATA[multiplication]]></productionSet>
+        <label><![CDATA[dots]]></label>
+        <description><![CDATA[dots multiplication]]></description>
     </productionRule>
     <EdgesGroups ordered="false">
     </EdgesGroups>

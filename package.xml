@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package label="Math Choices" save_state="true">
   <Problems>
-    <Problem name="Multi-test" label="Multi Test" tutor_flag="tutor" model_file="Multi2.brd" student_interface="Multi1.html">
+    <Problem name="test" label="Test" tutor_flag="tutor" model_file="Multi-2-4-rec.brd" student_interface="Multi-2-4.html">
       <Skills>
       </Skills>
     </Problem>
   </Problems>
   <ProblemSets>
-    <ProblemSet name="MultiTestSet" label="Multi Test Set" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
+    <ProblemSet name="test" label="Test" status="active" image_height="0" filler_height="0" team_size="1" selection_algorithm="sequential" max_count="1000" max_repeat="1" initial_sequence="0">
       <Problems>
-        <Problem name="Multi-test" position="1" role="0"/>
+        <Problem name="test" position="1" role="0"/>
       </Problems>
       <Skills>
       </Skills>
@@ -25,23 +25,70 @@
     </ProblemSet>
   </ProblemSets>
   <Assets>
-    <Asset name="Multi1.brd" path="FinalBRDs"/>
+    <Asset name="Divi-8-2.brd" path="FinalBRDs"/>
+    <Asset name="Multi-2-4-force.brd" path="FinalBRDs"/>
+    <Asset name="Multi-2-4-rec.brd" path="FinalBRDs"/>
+    <Asset name="Multi-2-4.brd" path="FinalBRDs"/>
+    <Asset name="Multi2-dots.brd" path="FinalBRDs"/>
     <Asset name="Multi2.brd" path="FinalBRDs"/>
-    <Asset name="test.brd" path="FinalBRDs"/>
-    <Asset name="Multi1.html" path="HTML"/>
-    <Asset name="Multi1.json" path="HTML"/>
-    <Asset name="Multi1(1).html" path="HTML"/>
-    <Asset name="Multi1(1).json" path="HTML"/>
-    <Asset name="Multi1(2).html" path="HTML"/>
-    <Asset name="Multi1(2).json" path="HTML"/>
-    <Asset name="Multi1(3).html" path="HTML"/>
-    <Asset name="Multi1(3).json" path="HTML"/>
-    <Asset name="Multi1(4).html" path="HTML"/>
-    <Asset name="Multi1(4).json" path="HTML"/>
-    <Asset name="Multi2.html" path="HTML"/>
-    <Asset name="Multi2.json" path="HTML"/>
-    <Asset name="Multi2(1).html" path="HTML"/>
-    <Asset name="Multi2(1).json" path="HTML"/>
+    <Asset name="Divi-8-2.html" path="HTML"/>
+    <Asset name="Divi-8-2.json" path="HTML"/>
+    <Asset name="Multi-2-4.html" path="HTML"/>
+    <Asset name="Multi-2-4.json" path="HTML"/>
+    <Asset name="1-6-A.png" path="HTML/Assets"/>
+    <Asset name="1-6-C.png" path="HTML/Assets"/>
+    <Asset name="1-6-D.png" path="HTML/Assets"/>
+    <Asset name="1-6-L.png" path="HTML/Assets"/>
+    <Asset name="1-8-A.png" path="HTML/Assets"/>
+    <Asset name="1-8-C.png" path="HTML/Assets"/>
+    <Asset name="1-8-D.png" path="HTML/Assets"/>
+    <Asset name="1-8-L.png" path="HTML/Assets"/>
+    <Asset name="2-2-A.png" path="HTML/Assets"/>
+    <Asset name="2-2-C.png" path="HTML/Assets"/>
+    <Asset name="2-2-D.png" path="HTML/Assets"/>
+    <Asset name="2-2-L.png" path="HTML/Assets"/>
+    <Asset name="2-3-A.png" path="HTML/Assets"/>
+    <Asset name="2-3-C.png" path="HTML/Assets"/>
+    <Asset name="2-3-D.png" path="HTML/Assets"/>
+    <Asset name="2-3-L.png" path="HTML/Assets"/>
+    <Asset name="2-4-A.png" path="HTML/Assets"/>
+    <Asset name="2-4-C.png" path="HTML/Assets"/>
+    <Asset name="2-4-D.png" path="HTML/Assets"/>
+    <Asset name="2-4-L.png" path="HTML/Assets"/>
+    <Asset name="2-5-C.png" path="HTML/Assets"/>
+    <Asset name="3-2-A.png" path="HTML/Assets"/>
+    <Asset name="3-2-C.png" path="HTML/Assets"/>
+    <Asset name="3-2-D.png" path="HTML/Assets"/>
+    <Asset name="3-2-L.png" path="HTML/Assets"/>
+    <Asset name="3-4-A.png" path="HTML/Assets"/>
+    <Asset name="3-4-C.png" path="HTML/Assets"/>
+    <Asset name="3-4-D.png" path="HTML/Assets"/>
+    <Asset name="3-4-L.png" path="HTML/Assets"/>
+    <Asset name="3-5-A.png" path="HTML/Assets"/>
+    <Asset name="3-5-C.png" path="HTML/Assets"/>
+    <Asset name="3-5-D.png" path="HTML/Assets"/>
+    <Asset name="3-5-L.png" path="HTML/Assets"/>
+    <Asset name="4-2-A.png" path="HTML/Assets"/>
+    <Asset name="4-2-C.png" path="HTML/Assets"/>
+    <Asset name="4-2-D.png" path="HTML/Assets"/>
+    <Asset name="4-2-L.png" path="HTML/Assets"/>
+    <Asset name="4-5-A.png" path="HTML/Assets"/>
+    <Asset name="4-5-C.png" path="HTML/Assets"/>
+    <Asset name="4-5-D.png" path="HTML/Assets"/>
+    <Asset name="4-5-L.png" path="HTML/Assets"/>
+    <Asset name="5-4-A.png" path="HTML/Assets"/>
+    <Asset name="5-4-C.png" path="HTML/Assets"/>
+    <Asset name="5-4-D.png" path="HTML/Assets"/>
+    <Asset name="5-4-L.png" path="HTML/Assets"/>
+    <Asset name="5-5-D.png" path="HTML/Assets"/>
+    <Asset name="8-1-A.png" path="HTML/Assets"/>
+    <Asset name="8-1-C.png" path="HTML/Assets"/>
+    <Asset name="8-1-D.png" path="HTML/Assets"/>
+    <Asset name="8-1-L.png" path="HTML/Assets"/>
+    <Asset name="8-2-A.png" path="HTML/Assets"/>
+    <Asset name="8-2-C.png" path="HTML/Assets"/>
+    <Asset name="8-2-D.png" path="HTML/Assets"/>
+    <Asset name="8-2-L.png" path="HTML/Assets"/>
     <Asset name="abstract-C.png" path="HTML/Assets"/>
     <Asset name="abstract-D.png" path="HTML/Assets"/>
     <Asset name="abstract-H.png" path="HTML/Assets"/>
@@ -56,6 +103,8 @@
     <Asset name="correct-D.png" path="HTML/Assets"/>
     <Asset name="correct-H.png" path="HTML/Assets"/>
     <Asset name="correct.png" path="HTML/Assets"/>
+    <Asset name="Divi-8-2-styles.css" path="HTML/Assets"/>
+    <Asset name="Divi-8-2-styles.json" path="HTML/Assets"/>
     <Asset name="dots-C.png" path="HTML/Assets"/>
     <Asset name="dots-D.png" path="HTML/Assets"/>
     <Asset name="dots-H.png" path="HTML/Assets"/>
@@ -69,28 +118,7 @@
     <Asset name="line-D.png" path="HTML/Assets"/>
     <Asset name="line-H.png" path="HTML/Assets"/>
     <Asset name="line.png" path="HTML/Assets"/>
-    <Asset name="Multi1-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi1-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi1(1)-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi1(1)-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi1(2)-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi1(2)-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi1(3)-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi1(3)-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi1(4)-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi1(4)-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi2-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi2-styles.json" path="HTML/Assets"/>
-    <Asset name="Multi2(1)-styles.css" path="HTML/Assets"/>
-    <Asset name="Multi2(1)-styles.json" path="HTML/Assets"/>
-    <Asset name="twoXFour-A-R1.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-A-R2.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-A-W.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-D-R1.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-D-R2.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-D-W.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-L-R1.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-L-R2.png" path="HTML/Assets"/>
-    <Asset name="twoXFour-L-W.png" path="HTML/Assets"/>
+    <Asset name="Multi-2-4-styles.css" path="HTML/Assets"/>
+    <Asset name="Multi-2-4-styles.json" path="HTML/Assets"/>
   </Assets>
 </Package>
