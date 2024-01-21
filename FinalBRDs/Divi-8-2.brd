@@ -567,7 +567,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>2</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>7621b8b2-9adb-8e27-517a-bdbf806e8e40</transaction_id><Selection><value>C1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>7621b8b2-9adb-8e27-517a-bdbf806e8e40</transaction_id><Selection><value>C-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -579,7 +579,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[C1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[C-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -614,7 +614,7 @@
             <uniqueID>3</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>df77b898-2864-aa41-c39f-bac149b75c97</transaction_id><Selection><value>done</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Drücke auf das Bild, mit dem du 8:2 lösen willst.]]></successMessage>
+            <successMessage><![CDATA[Drücke auf das Bild, mit dem du die Aufgabe 8:2 lösen willst.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
@@ -747,7 +747,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>6</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e32aa8be-74bf-7970-cb8b-7089acee6c72</transaction_id><Selection><value>C1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e32aa8be-74bf-7970-cb8b-7089acee6c72</transaction_id><Selection><value>C-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 8:2 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -759,7 +759,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[C1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[C-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -792,7 +792,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>7</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b918f364-f897-972d-c741-557bed82b7fc</transaction_id><Selection><value>D1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b918f364-f897-972d-c741-557bed82b7fc</transaction_id><Selection><value>D-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -804,7 +804,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[D1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[D-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -837,7 +837,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>8</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>6a6d0a38-dffc-eb5f-b5c5-9670312cd779</transaction_id><Selection><value>L1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>6a6d0a38-dffc-eb5f-b5c5-9670312cd779</transaction_id><Selection><value>L-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -849,7 +849,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[L1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[L-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -882,7 +882,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>9</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>c42e0b24-b00a-f045-0791-1fa229eede88</transaction_id><Selection><value>A1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>c42e0b24-b00a-f045-0791-1fa229eede88</transaction_id><Selection><value>A-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -894,7 +894,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[A1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[A-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1017,7 +1017,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>12</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b328ad3d-6089-78fb-ac9a-2994492fbfb5</transaction_id><Selection><value>D1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b328ad3d-6089-78fb-ac9a-2994492fbfb5</transaction_id><Selection><value>D-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 8:2 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1029,7 +1029,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[D1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[D-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1152,7 +1152,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>15</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>1c26e683-a1fd-dcef-143c-795b8235a3f0</transaction_id><Selection><value>L1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>1c26e683-a1fd-dcef-143c-795b8235a3f0</transaction_id><Selection><value>L-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 8:2 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1164,7 +1164,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[L1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[L-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1287,7 +1287,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>18</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>5f3e5460-3501-fa9c-96f7-ff802cbfc36c</transaction_id><Selection><value>A1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>5f3e5460-3501-fa9c-96f7-ff802cbfc36c</transaction_id><Selection><value>A-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 8:2 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1299,7 +1299,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[A1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[A-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1336,8 +1336,8 @@
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 8:2.
 ]]></successMessage>
-            <hintMessage><![CDATA[Verteile acht Bonbons auf zwei Personen.]]></hintMessage>
-            <hintMessage><![CDATA[Es gibt acht Bonbons und zwei Personen. ]]></hintMessage>
+            <hintMessage><![CDATA[Verteile 8 Bonbons auf 2 Personen.]]></hintMessage>
+            <hintMessage><![CDATA[Es gibt 8 Bonbons und 2 Personen. ]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1604,7 +1604,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>26</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>3e71d380-a016-861e-5c55-7920439b6729</transaction_id><Selection><value>button8</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>3e71d380-a016-861e-5c55-7920439b6729</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
@@ -1619,7 +1619,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[button8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[button4]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1631,7 +1631,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[4]]></matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1652,7 +1652,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>27</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2d90f261-6d6d-a067-744b-b36d5d8d9b73</transaction_id><Selection><value>No_Selection</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2d90f261-6d6d-a067-744b-b36d5d8d9b73</transaction_id><Selection><value>No_Selection</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
@@ -1676,7 +1676,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExpressionMatcher</matcherType>
-                        <matcherParameter name="InputExpression"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="InputExpression"><![CDATA[4]]></matcherParameter>
                         <matcherParameter name="relation"><![CDATA[!=]]></matcherParameter>
                     </matcher>
                 </Input>
@@ -1792,8 +1792,8 @@
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 8:2.
 ]]></successMessage>
-            <hintMessage><![CDATA[Suche nach acht Kreisen, die in zwei Gruppen geteilt werden.]]></hintMessage>
-            <hintMessage><![CDATA[Es gibt acht Kreise und zwei Gruppen.]]></hintMessage>
+            <hintMessage><![CDATA[Suche nach 8 Kreisen, die in 2 Gruppen geteilt werden.]]></hintMessage>
+            <hintMessage><![CDATA[Es gibt 8 Kreise und 2 Gruppen.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2061,7 +2061,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>36</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>45afb390-b712-6731-365b-48e2251a93d3</transaction_id><Selection><value>button8</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>45afb390-b712-6731-365b-48e2251a93d3</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
@@ -2076,7 +2076,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[button8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[button4]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -2088,7 +2088,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[4]]></matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2109,7 +2109,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>37</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2e573915-2150-acbd-9792-e90fc1cbefec</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2e573915-2150-acbd-9792-e90fc1cbefec</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
@@ -2133,7 +2133,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExpressionMatcher</matcherType>
-                        <matcherParameter name="InputExpression"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="InputExpression"><![CDATA[4]]></matcherParameter>
                         <matcherParameter name="relation"><![CDATA[boolean]]></matcherParameter>
                     </matcher>
                 </Input>
@@ -2249,8 +2249,8 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 8:2.
 ]]></successMessage>
-            <hintMessage><![CDATA[Teile acht in zwei Sprünge auf dem Zahlenstrahl]]></hintMessage>
-            <hintMessage><![CDATA[Mache zwei Sprünge. Lande am Ende bei der acht.]]></hintMessage>
+            <hintMessage><![CDATA[Teile 8 in 2 Sprünge auf dem Zahlenstrahl]]></hintMessage>
+            <hintMessage><![CDATA[Mache 2 Sprünge. Lande am Ende bei der 8.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2338,7 +2338,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepStudentError></stepStudentError>
             <uniqueID>42</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>0208d0c7-cb04-03ce-c84c-171fc23cbafd</transaction_id><Selection><value>L2</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Dieses Bild zeigt 2 ⋅ 2. Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Dieses Bild zeigt 4:2. Drücke auf das Bild, das 8:2 zeigt.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -2517,7 +2517,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>46</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>21192603-2eb0-117b-b19c-72d095dd11ca</transaction_id><Selection><value>button8</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>21192603-2eb0-117b-b19c-72d095dd11ca</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
@@ -2532,7 +2532,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[button8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[button4]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -2544,7 +2544,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[4]]></matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2565,7 +2565,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>47</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>09ef8f11-9bda-536d-39d3-047db63f4fa5</transaction_id><Selection><value>button7</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>09ef8f11-9bda-536d-39d3-047db63f4fa5</transaction_id><Selection><value>button7</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
@@ -2589,7 +2589,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExpressionMatcher</matcherType>
-                        <matcherParameter name="InputExpression"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="InputExpression"><![CDATA[4]]></matcherParameter>
                         <matcherParameter name="relation"><![CDATA[!=]]></matcherParameter>
                     </matcher>
                 </Input>
@@ -2705,8 +2705,8 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 8:2.
 ]]></successMessage>
-            <hintMessage><![CDATA[Zeige acht mit zwei Würfeln.]]></hintMessage>
-            <hintMessage><![CDATA[Suche nach zwei Würfeln. Beide Würfel zusammen ergeben acht.]]></hintMessage>
+            <hintMessage><![CDATA[Zeige 8 mit 2 Würfeln.]]></hintMessage>
+            <hintMessage><![CDATA[Suche nach 2 Würfeln. Beide Würfel zusammen ergeben 8.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2794,7 +2794,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepStudentError></stepStudentError>
             <uniqueID>52</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>3586ba1a-f5da-aeca-5be8-398236a7c89e</transaction_id><Selection><value>A2</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Dieses Bild zeigt 2 ⋅ 2. Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Dieses Bild zeigt 4:2. Drücke auf das Bild, das 8:2 zeigt.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -2973,7 +2973,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>56</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e645492a-4dcf-5e3b-a3e9-242d7573f4c5</transaction_id><Selection><value>button8</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e645492a-4dcf-5e3b-a3e9-242d7573f4c5</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
@@ -2988,7 +2988,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[button8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[button4]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -3000,7 +3000,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[4]]></matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -3021,7 +3021,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>57</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>8cd4d574-15df-be61-183f-4b76093d2028</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>8cd4d574-15df-be61-183f-4b76093d2028</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[4]]></value></Input></properties></message>
             <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
@@ -3045,7 +3045,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExpressionMatcher</matcherType>
-                        <matcherParameter name="InputExpression"><![CDATA[8]]></matcherParameter>
+                        <matcherParameter name="InputExpression"><![CDATA[4]]></matcherParameter>
                         <matcherParameter name="relation"><![CDATA[!=]]></matcherParameter>
                     </matcher>
                 </Input>

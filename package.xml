@@ -26,11 +26,9 @@
   </ProblemSets>
   <Assets>
     <Asset name="Divi-8-2.brd" path="FinalBRDs"/>
-    <Asset name="Multi-2-4-force.brd" path="FinalBRDs"/>
+    <Asset name="Multi-2-4-forced.brd" path="FinalBRDs"/>
     <Asset name="Multi-2-4-rec.brd" path="FinalBRDs"/>
     <Asset name="Multi-2-4.brd" path="FinalBRDs"/>
-    <Asset name="Multi2-dots.brd" path="FinalBRDs"/>
-    <Asset name="Multi2.brd" path="FinalBRDs"/>
     <Asset name="Divi-8-2.html" path="HTML"/>
     <Asset name="Divi-8-2.json" path="HTML"/>
     <Asset name="Multi-2-4.html" path="HTML"/>
@@ -93,6 +91,7 @@
     <Asset name="abstract-D.png" path="HTML/Assets"/>
     <Asset name="abstract-H.png" path="HTML/Assets"/>
     <Asset name="abstract.png" path="HTML/Assets"/>
+    <Asset name="background-new.png" path="HTML/Assets"/>
     <Asset name="background.png" path="HTML/Assets"/>
     <Asset name="Blorbo3.png" path="HTML/Assets"/>
     <Asset name="concrete-C.png" path="HTML/Assets"/>

@@ -8,8 +8,8 @@
         <text>empty</text>
         <uniqueID>1</uniqueID>
         <dimension>
-            <x>199</x>
-            <y>-308</y>
+            <x>190</x>
+            <y>-385</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -40,8 +40,8 @@
         <text>state5</text>
         <uniqueID>5</uniqueID>
         <dimension>
-            <x>-183</x>
-            <y>482</y>
+            <x>-119</x>
+            <y>503</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -88,8 +88,8 @@
         <text>state11</text>
         <uniqueID>11</uniqueID>
         <dimension>
-            <x>34</x>
-            <y>605</y>
+            <x>-7</x>
+            <y>570</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -112,32 +112,32 @@
         <text>state14</text>
         <uniqueID>14</uniqueID>
         <dimension>
-            <x>268</x>
-            <y>662</y>
+            <x>266</x>
+            <y>612</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state15</text>
         <uniqueID>15</uniqueID>
         <dimension>
-            <x>258</x>
-            <y>787</y>
+            <x>249</x>
+            <y>809</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state16</text>
         <uniqueID>16</uniqueID>
         <dimension>
-            <x>268</x>
-            <y>862</y>
+            <x>261</x>
+            <y>876</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state17</text>
         <uniqueID>17</uniqueID>
         <dimension>
-            <x>516</x>
-            <y>621</y>
+            <x>513</x>
+            <y>547</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -480,72 +480,112 @@
         <text>state61</text>
         <uniqueID>61</uniqueID>
         <dimension>
-            <x>-226</x>
-            <y>544</y>
+            <x>-197</x>
+            <y>575</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state62</text>
         <uniqueID>62</uniqueID>
         <dimension>
-            <x>27</x>
-            <y>679</y>
+            <x>-18</x>
+            <y>618</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state63</text>
         <uniqueID>63</uniqueID>
         <dimension>
-            <x>251</x>
-            <y>714</y>
+            <x>243</x>
+            <y>739</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state64</text>
         <uniqueID>64</uniqueID>
         <dimension>
-            <x>512</x>
-            <y>699</y>
+            <x>539</x>
+            <y>617</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state65</text>
         <uniqueID>65</uniqueID>
         <dimension>
-            <x>199</x>
-            <y>-3</y>
+            <x>191</x>
+            <y>-315</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state66</text>
         <uniqueID>66</uniqueID>
         <dimension>
-            <x>195</x>
-            <y>-233</y>
+            <x>192</x>
+            <y>-151</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state67</text>
         <uniqueID>67</uniqueID>
         <dimension>
-            <x>199</x>
-            <y>-159</y>
+            <x>184</x>
+            <y>-76</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state68</text>
         <uniqueID>68</uniqueID>
         <dimension>
-            <x>208</x>
-            <y>-88</y>
+            <x>180</x>
+            <y>8</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
         <text>state69</text>
         <uniqueID>69</uniqueID>
         <dimension>
-            <x>-226</x>
-            <y>618</y>
+            <x>188</x>
+            <y>60</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state70</text>
+        <uniqueID>70</uniqueID>
+        <dimension>
+            <x>196</x>
+            <y>-235</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state71</text>
+        <uniqueID>71</uniqueID>
+        <dimension>
+            <x>-225</x>
+            <y>663</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state72</text>
+        <uniqueID>72</uniqueID>
+        <dimension>
+            <x>41</x>
+            <y>678</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state73</text>
+        <uniqueID>73</uniqueID>
+        <dimension>
+            <x>559</x>
+            <y>674</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state74</text>
+        <uniqueID>74</uniqueID>
+        <dimension>
+            <x>291</x>
+            <y>687</y>
         </dimension>
     </node>
     <edge>
@@ -589,7 +629,7 @@
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>65</sourceID>
+        <sourceID>69</sourceID>
         <destID>2</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -599,7 +639,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>2</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>7621b8b2-9adb-8e27-517a-bdbf806e8e40</transaction_id><Selection><value>C1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>7621b8b2-9adb-8e27-517a-bdbf806e8e40</transaction_id><Selection><value>C-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -611,7 +651,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[C1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[C-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -646,7 +686,7 @@
             <uniqueID>3</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>df77b898-2864-aa41-c39f-bac149b75c97</transaction_id><Selection><value>done</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Drücke auf das Bild, mit dem du 2⋅4 lösen wirst. Du startest mit dem Bild Süßes verteilen. ]]></successMessage>
+            <successMessage><![CDATA[Drücke auf das Bild, mit dem du die Aufgabe 2⋅4 lösen wirst. Beginne mit dem Bild "Süßes verteilen".]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
@@ -769,7 +809,7 @@
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>69</sourceID>
+        <sourceID>71</sourceID>
         <destID>6</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -779,7 +819,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>6</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e32aa8be-74bf-7970-cb8b-7089acee6c72</transaction_id><Selection><value>C1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e32aa8be-74bf-7970-cb8b-7089acee6c72</transaction_id><Selection><value>C-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 2⋅4 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -791,7 +831,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[C1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[C-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -824,7 +864,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>7</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b918f364-f897-972d-c741-557bed82b7fc</transaction_id><Selection><value>D1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b918f364-f897-972d-c741-557bed82b7fc</transaction_id><Selection><value>D-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -836,7 +876,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[D1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[D-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -869,7 +909,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>8</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>6a6d0a38-dffc-eb5f-b5c5-9670312cd779</transaction_id><Selection><value>L1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>6a6d0a38-dffc-eb5f-b5c5-9670312cd779</transaction_id><Selection><value>L-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -881,7 +921,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[L1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[L-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -914,7 +954,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>9</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>c42e0b24-b00a-f045-0791-1fa229eede88</transaction_id><Selection><value>A1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>c42e0b24-b00a-f045-0791-1fa229eede88</transaction_id><Selection><value>A-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -926,7 +966,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[A1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[A-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1039,7 +1079,7 @@
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>62</sourceID>
+        <sourceID>72</sourceID>
         <destID>12</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -1049,7 +1089,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>12</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b328ad3d-6089-78fb-ac9a-2994492fbfb5</transaction_id><Selection><value>D1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b328ad3d-6089-78fb-ac9a-2994492fbfb5</transaction_id><Selection><value>D-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 2⋅4 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1061,7 +1101,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[D1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[D-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1184,7 +1224,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>15</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>1c26e683-a1fd-dcef-143c-795b8235a3f0</transaction_id><Selection><value>L1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>1c26e683-a1fd-dcef-143c-795b8235a3f0</transaction_id><Selection><value>L-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 2⋅4 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1196,7 +1236,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[L1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[L-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1309,7 +1349,7 @@
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>64</sourceID>
+        <sourceID>73</sourceID>
         <destID>18</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -1319,7 +1359,7 @@
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>18</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>5f3e5460-3501-fa9c-96f7-ff802cbfc36c</transaction_id><Selection><value>A1</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>5f3e5460-3501-fa9c-96f7-ff802cbfc36c</transaction_id><Selection><value>A-group</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage><![CDATA[Drücke auf das Bild, das 2⋅4 zeigt.]]></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -1331,7 +1371,7 @@
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[A1]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[A-group]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -1366,10 +1406,10 @@
             <uniqueID>19</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>99f6ef99-d908-0418-959e-f42848f8610a</transaction_id><Selection><value>C1</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 2⋅4.
+            <successMessage><![CDATA[Richtig! Drücke jetzt unten auf das Ergebnis von 2⋅4.
 ]]></successMessage>
-            <hintMessage><![CDATA[Verteile zwei mal vier Bonbons.]]></hintMessage>
-            <hintMessage><![CDATA[Es gibt zwei Personen. Jede Person erhält vier Bonbons.]]></hintMessage>
+            <hintMessage><![CDATA[Verteile 2 mal 4 Bonbons.]]></hintMessage>
+            <hintMessage><![CDATA[Es gibt 2 Personen. Jede Person erhält 4 Bonbons.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1641,7 +1681,7 @@
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
             <hintMessage><![CDATA[Wie viele Bonbons sind es insgesamt?]]></hintMessage>
-            <hintMessage><![CDATA[2⋅4 = 4+4. Was ist das Ergebnis? ]]></hintMessage>
+            <hintMessage><![CDATA[2⋅4 = 4 + 4. Was ist das Ergebnis? ]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1684,7 +1724,7 @@
             <stepStudentError></stepStudentError>
             <uniqueID>27</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2d90f261-6d6d-a067-744b-b36d5d8d9b73</transaction_id><Selection><value>No_Selection</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Das Bild links hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -1821,10 +1861,10 @@
             <uniqueID>30</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>bc3a70b5-4412-f6b1-a1e1-0ea921fd7356</transaction_id><Selection><value>D1</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 2⋅4.
+            <successMessage><![CDATA[Richtig! Drücke jetzt unten auf das Ergebnis von 2⋅4.
 ]]></successMessage>
-            <hintMessage><![CDATA[Suche nach zwei Gruppen mit je vier Kreisen.]]></hintMessage>
-            <hintMessage><![CDATA[Es gibt zwei Gruppen. In jeder Gruppe sind vier Kreise.]]></hintMessage>
+            <hintMessage><![CDATA[Suche nach 2 Gruppen mit je 4 Kreisen.]]></hintMessage>
+            <hintMessage><![CDATA[Es gibt 2 Gruppen. In jeder Gruppe sind 4 Kreise.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2097,7 +2137,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
             <hintMessage><![CDATA[Wie viele Kreise sind es insgesamt?]]></hintMessage>
-            <hintMessage><![CDATA[2⋅4 = 4+4. Was ist das Ergebnis? ]]></hintMessage>
+            <hintMessage><![CDATA[2⋅4 = 4 + 4. Was ist das Ergebnis? ]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2140,7 +2180,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepStudentError></stepStudentError>
             <uniqueID>37</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2e573915-2150-acbd-9792-e90fc1cbefec</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Das Bild links hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -2277,10 +2317,10 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <uniqueID>40</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>d0f7d51c-b00e-37ca-3c7c-e2b205070f70</transaction_id><Selection><value>L1</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 2⋅4.
+            <successMessage><![CDATA[Richtig! Drücke jetzt unten auf das Ergebnis von 2⋅4.
 ]]></successMessage>
-            <hintMessage><![CDATA[Mach zwei vierer Sprünge auf dem Zahlenstrahl.]]></hintMessage>
-            <hintMessage><![CDATA[Mache zwei Sprünge. Jeder Sprung geht vier weiter.]]></hintMessage>
+            <hintMessage><![CDATA[Mach 2 4er Sprünge auf dem Zahlenstrahl.]]></hintMessage>
+            <hintMessage><![CDATA[Mache 2 Sprünge. Jeder Sprung geht 4 weiter.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2552,7 +2592,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
             <hintMessage><![CDATA[Wo enden die Sprünge?]]></hintMessage>
-            <hintMessage><![CDATA[2⋅4 = 4+4. Was ist das Ergebnis? ]]></hintMessage>
+            <hintMessage><![CDATA[2⋅4 = 4 + 4. Was ist das Ergebnis? ]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -2595,7 +2635,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepStudentError></stepStudentError>
             <uniqueID>47</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>09ef8f11-9bda-536d-39d3-047db63f4fa5</transaction_id><Selection><value>button7</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Das Bild links hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -2732,10 +2772,10 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <uniqueID>50</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>bf5e25b8-d47f-7779-3805-a60bdb047b11</transaction_id><Selection><value>A1</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[-1]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
-            <successMessage><![CDATA[Richtig! Drücke jetzt rechts auf das Ergebnis von 2⋅4.
+            <successMessage><![CDATA[Richtig! Drücke jetzt unten auf das Ergebnis von 2⋅4.
 ]]></successMessage>
-            <hintMessage><![CDATA[Jemand hat zwei mal die vier gewürfelt.]]></hintMessage>
-            <hintMessage><![CDATA[Suche nach zwei Würfeln. Beide Würfel zeigen die vier.]]></hintMessage>
+            <hintMessage><![CDATA[Jemand hat 2 mal eine 4 gewürfelt.]]></hintMessage>
+            <hintMessage><![CDATA[Suche nach 2 Würfeln. Beide Würfel zeigen eine 4.]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -3007,7 +3047,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Das Bild hilft dir, die richtige Lösung zu finden.]]></hintMessage>
             <hintMessage><![CDATA[Zähle alle Würfel zusammen.]]></hintMessage>
-            <hintMessage><![CDATA[2⋅4 = 4+4. Was ist das Ergebnis? ]]></hintMessage>
+            <hintMessage><![CDATA[2⋅4 = 4 + 4. Was ist das Ergebnis? ]]></hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -3050,7 +3090,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepStudentError></stepStudentError>
             <uniqueID>57</uniqueID>
             <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>8cd4d574-15df-be61-183f-4b76093d2028</transaction_id><Selection><value>button4</value></Selection><Action><value>ButtonPressed</value></Action><Input><value><![CDATA[8]]></value></Input></properties></message>
-            <buggyMessage><![CDATA[Falsch. Das Bild unten hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
+            <buggyMessage><![CDATA[Falsch. Das Bild links hilft dir, die Aufgabe zu lösen.]]></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please click the highlighted button.]]></hintMessage>
             <callbackFn></callbackFn>
@@ -3310,7 +3350,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>14</sourceID>
+        <sourceID>74</sourceID>
         <destID>63</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -3365,7 +3405,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>64</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e534b177-0396-098c-18af-06fba59cb249</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>e534b177-0396-098c-18af-06fba59cb249</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[True]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -3377,7 +3417,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Selection>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[agentGroup]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[agentGroupRec]]></matcherParameter>
                     </matcher>
                 </Selection>
                 <Action>
@@ -3389,7 +3429,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single"><![CDATA[False]]></matcherParameter>
+                        <matcherParameter name="single"><![CDATA[True]]></matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
@@ -3400,7 +3440,7 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>68</sourceID>
+        <sourceID>1</sourceID>
         <destID>65</destID>
         <traversalCount>0</traversalCount>
     </edge>
@@ -3410,7 +3450,52 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
             <uniqueID>65</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>25e8e64a-6cb6-07b4-686e-292448bfbe7b</transaction_id><Selection><value>dotsButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>f20a989e-b8cf-ddcb-ce8c-d69a5b7f51b7</transaction_id><Selection><value>concreteButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
+            <buggyMessage></buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[concreteButton]]></matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[unlock]]></matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[No_Input]]></matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>70</sourceID>
+        <destID>66</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>66</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>ab81b4e2-4dba-8404-97ed-456c8026ce73</transaction_id><Selection><value>dotsButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -3445,17 +3530,17 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>1</sourceID>
-        <destID>66</destID>
+        <sourceID>66</sourceID>
+        <destID>67</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+        <actionLabel preferPathMark="true" minTraversals="1" maxTraversals="1">
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>66</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>2033784c-5e4b-17c6-b623-20ccff9895a4</transaction_id><Selection><value>lineButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
+            <uniqueID>67</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>f3967c6b-c72a-5f91-3316-f06ecc746574</transaction_id><Selection><value>lineButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -3490,8 +3575,8 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>66</sourceID>
-        <destID>67</destID>
+        <sourceID>67</sourceID>
+        <destID>68</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -3499,8 +3584,8 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>67</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b098ccaa-8259-98af-69cd-c368ae99a58b</transaction_id><Selection><value>abstractButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
+            <uniqueID>68</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>f06e0dfc-b5da-20b8-36dc-1e4b2188172c</transaction_id><Selection><value>abstractButton</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[No_Input]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -3535,8 +3620,8 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <text>unnamed</text>
             <indicator>-1</indicator>
         </rule>
-        <sourceID>67</sourceID>
-        <destID>68</destID>
+        <sourceID>68</sourceID>
+        <destID>69</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <edge>
@@ -3544,8 +3629,53 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>68</uniqueID>
-            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>9fd593e8-0781-535a-6336-3c0ea04b4c40</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <uniqueID>69</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>7d17c5ec-25d2-d78a-1054-92d115ba17f4</transaction_id><Selection><value>agentGroup</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <buggyMessage></buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[agentGroup]]></matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[SetVisible]]></matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[False]]></matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>65</sourceID>
+        <destID>70</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>70</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>b3f5b098-b7f6-22cb-ffcd-49cf844ce3ec</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
             <buggyMessage></buggyMessage>
             <successMessage></successMessage>
             <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
@@ -3581,7 +3711,142 @@ Drücke auf das Bild, das 2 ⋅ 4 zeigt.]]></successMessage>
             <indicator>-1</indicator>
         </rule>
         <sourceID>61</sourceID>
-        <destID>69</destID>
+        <destID>71</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>71</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>5e14a3aa-2f12-7a7d-e4b2-d60e401354e0</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <buggyMessage></buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[agentGroupRec]]></matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[SetVisible]]></matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[False]]></matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>62</sourceID>
+        <destID>72</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>72</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>71e53166-8bd4-2efe-2d3d-5d8171e380bb</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <buggyMessage></buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[agentGroupRec]]></matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[SetVisible]]></matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[False]]></matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>64</sourceID>
+        <destID>73</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>73</uniqueID>
+            <message><verb>NotePropertySet</verb><properties><MessageType>InterfaceAction</MessageType><transaction_id>da50ecae-a2e3-63c6-5b12-e956d8162d27</transaction_id><Selection><value>agentGroupRec</value></Selection><Action><value>No_Action</value></Action><Input><value><![CDATA[False]]></value></Input></properties></message>
+            <buggyMessage></buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage><![CDATA[Please answer "No_Input" on the highlighted element.]]></hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Correct Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[agentGroupRec]]></matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[SetVisible]]></matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single"><![CDATA[False]]></matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Tutor (unevaluated)</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>14</sourceID>
+        <destID>74</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <EdgesGroups ordered="false">
